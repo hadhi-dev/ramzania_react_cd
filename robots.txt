@@ -3,4 +3,4 @@ Allow: /
 Disallow: /dashboard/
 Disallow: /auth/
 
-Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://ramzania.com/sitemap.xml
